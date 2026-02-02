@@ -24,8 +24,8 @@ if (login == false) {
   while (chon != 5) {
     chon = Number(prompt(
       "MENU\n" +
-      "1. Chan le\n" +
-      "2. Ve kho\n" +
+      "1. phan loai\n" +
+      "2. thiet ke\n" +
       "3. Phi bao tri\n" +
       "4. So may man\n" +
       "5. Thoat"
